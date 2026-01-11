@@ -7,9 +7,9 @@ This repository contains all the materials and files for a DNS and Web Server co
 
 | File | Description |
 |------|-------------|
-| `DNS_WebServer_Lab.pkt` | Packet Tracer file showing the network setup with PC, DNS Server, and Web Server |
-| `DNS_WebServer_Lab.pdf` | PDF guide explaining the setup, steps, and screenshots |
-| `DNS_WebServer_Lab.docx` | Word document version of the lab instructions |
+| `dnsandwebserver.pkt` | Packet Tracer file showing the network setup with PC, DNS Server, and Web Server |
+| `dnsandwebserver.pdf` | PDF guide explaining the setup, steps, and screenshots |
+| `dnsandwebserver.docx` | Word document version of the lab instructions |
 
 ---
 
