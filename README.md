@@ -40,6 +40,8 @@ In this lab, you will learn:
 I will demonstrate this lab step by step in my upcoming YouTube video.  
 You will see:
 
+https://youtu.be/ss9wU8VhmiE
+
 - Web Server setup
 - DNS configuration
 - PC accessing the website using domain name
